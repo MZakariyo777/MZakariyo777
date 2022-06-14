@@ -1,19 +1,19 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> . I'm Ja'far , Can I halp you ?
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> . I'm Zakariyo , Can I halp you ?
 
 <a href="https://discord.gg/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://t.me/uzb7773767">
-  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" />
+  <img align="left" alt="" width="32px" height="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" />
 </a>
 <a href="https://twitter.com/MZakariyo777
 ">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/MZakariyo777
 /">
   <img align="left" alt="MZakariyo777
-'s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+'s LinkedIN" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 <br />
@@ -29,8 +29,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 @gmail.com)
 - 💬 ask me about anything, i am happy to help;
 - This my phone number :  <a href="https://t.me/uzb7773767">
-  <img align="left" alt="" width="30px" src="https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" />+998977773767 </a>
-- This my phone number : <img align="left" alt="" width="30px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767">+99897)777-37-67</a>  
+  <img align="left" alt="" width="30px" height="30px" src="https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" />+998977773767 </a>
+  
+- This my phone number : <img align="left" alt="" width="30px" height="30px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767">+99897)777-37-67</a>  
 
 
 **languages and tools:**  
