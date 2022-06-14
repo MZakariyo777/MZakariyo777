@@ -95,7 +95,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&theme=gotham" alt="MZakariyo777
+  <img src="https://github-readme-stats.vercel.app/api?username=MZakariyo777&show_icons=true&theme=gotham" alt="MZakariyo777
 " />
 </div>
   
@@ -105,12 +105,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   ## 📊 Github stats
   
    <a href="https://github.com/MZakariyo777">
-    <img alt="views" title="GitHub profile views" src="https://git-trophy-tests.vercel.app/?username=MJafar777&theme=algolia&no-frame=true&column=7"/></a>
+    <img alt="views" title="GitHub profile views" src="https://git-trophy-tests.vercel.app/?username=MZakariyo777&theme=algolia&no-frame=true&column=7"/></a>
   
-  <p><a align="center" href="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="MJafar777's Github Stats"src="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400"/></a>
+  <p><a align="center" href="https://github-readme-stats.vercel.app/api?username=MZakariyo777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="MZakariyo777's Github Stats"src="https://github-readme-stats.vercel.app/api?username=MZakariyo777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400"/></a>
     
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MJafar777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="MJafar777's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MJafar777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MZakariyo777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="MZakariyo777's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MZakariyo777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
  <!-- ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)      -->                                                   
   
@@ -119,7 +119,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
-<a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MJafar777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MZakariyo777"><img alt="MZakariyo777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MZakariyo777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   
   <p align="center">
@@ -233,7 +233,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MJafar777&theme=monokai-metallian&hide_border=true"/>
   </a> -->
   <a href="#">
-    <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="left"/>
+    <img title="🔥 Streak stats" alt="MZakariyo777's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MZakariyo777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="left"/>
   </a>
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </p>
@@ -257,6 +257,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
   <!-- https://media.giphy.com/media/xUPGcEliCc7bETyfO8 -->
   
-  <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="100%"/></a>
+  <a href="https://github.com/MZakariyo777"><img alt="MZakariyo777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="100%"/></a>
   
 <!-- https://giphy.com/search/developer  <--bu gif olish mumkin bo'lgan site-->
